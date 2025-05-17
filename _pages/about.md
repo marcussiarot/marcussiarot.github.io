@@ -38,13 +38,13 @@ latest_posts:
     I am currently a fourth year undergraduate student at the University of Hawaiʻi at Mānoa, majoring in Electrical and Computer Engineering.
     I am passionate about exploring the intersection of electrical engineering and biomedical technology. 
     I’m excited to deepen my knowledge in this field and aspire to build a career where I can contribute to innovative healthcare solutions.
-    I graduated from University Laboratory School (high school) in 2022.
+    I also graduated from University Laboratory School (high school) in 2022.
   </p>
   <p>
-    I was born and raised on Oahu for my entire life.
-    On my free time I enjoy spending time with my family and friends and being outdoors or indoors.
+    I was born and raised on Oahu.
+    On my free time I enjoy spending time with my family and friends.
     Some of my hobbies include bowling, exercising, chess (I'm not very good), and trying out new places to eat (if that counts as a hobby).
-    In general, I like trying out new things and I hope to continue to expand my horizons.
+    In general, I like exploring new things and I hope to continue expanding my horizons.
   </p>
 </section>
 
@@ -60,6 +60,7 @@ latest_posts:
   <p>
     I also worked as an assistant swimming coach back at the same team I swam with in high school.
     My main task was organizing and assigning events to swimmers and maintaining good communication with the swimmers and parents.
+    By coaching, I was able to help swimmers and their parents navigate challenges I faced myself like managing nerves at meets or balancing school with training.      It was meaningful to me to offer the kind of support I once needed.
   </p>
   <p>
     As of Summer 2025, I am working as an Electrical Engineering Intern at Bowers + Kubota Consulting and I look forward to gaining a lot of experience.
