@@ -45,8 +45,8 @@ instagram_id: marcussiarot # your instagram id
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-resume:  # can be any name here other than the ones already defined above
-  logo: https://cdn-icons-png.flaticon.com/512/1250/1250680.png # can be png, svg, jpg
-  title: Resume
-  url: /assets/pdf/SIAROT Resume 2025.pdf
+#resume:  # can be any name here other than the ones already defined above
+  #logo: https://cdn-icons-png.flaticon.com/512/1250/1250680.png # can be png, svg, jpg
+  #title: Resume
+  #url: /assets/pdf/SIAROT Resume 2025.pdf
 
