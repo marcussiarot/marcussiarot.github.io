@@ -11,6 +11,10 @@ profile:
   more_info: >
     <p>Aiea, Hawaii</p>
     <p>Email: mlsiarot@gmail.com<p>
+    <p>
+        <a href="/assets/pdf/SIAROT Resume 2025.pdf" target="_blank" rel="noopener noreferrer" class="subtle-button">View Resume</a>
+    </p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
