@@ -44,7 +44,7 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Left: Team photo of those who flew up to Utah (missing a good amount of people) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right: Rover completing equipment servicing challenge
+    Left: Team photo of those who flew up to Utah (missing a good amount of people) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right: Rover completing equipment servicing challenge
 </div>
 
 The team was able to qualify and compete in the URC challenge and I had the opportunity to compete and travel with the team.
