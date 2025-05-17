@@ -4,7 +4,7 @@ title: Team Robotic Space Exploration (RoSE)
 description: Avionics Team
 img: assets/img/rover.jpg
 importance: 1
-category: work
+category: ACADEMIC
 related_publications: false
 ---
 
