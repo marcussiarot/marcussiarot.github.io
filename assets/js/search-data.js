@@ -525,13 +525,6 @@ ninja.data = [{
           window.open("https://instagram.com/marcussiarot", "_blank");
         },
       },{
-        id: 'social-resume',
-        title: 'Resume',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/SIAROT Resume 2025.pdf", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
